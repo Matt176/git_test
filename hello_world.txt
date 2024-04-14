@@ -1,0 +1,1 @@
+At this point I am confused with my Mac terminal running and another running inside VS Code. Also I had to make changes to VS Code to find README.md file.
